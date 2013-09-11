@@ -1,7 +1,7 @@
 DTCoreTextHyphenationExample
 ============================
 
-An example of creating justified and hyphenated text with DTCoreText
+An example of creating justified and hyphenated text with DTCoreText. Tested over iOS5+.
 
 NSString+Hyphenation
 --------------------
